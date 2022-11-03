@@ -68,7 +68,7 @@ section {
     padding: 1.5rem;
     background-color: var(--blue-color);
     border-radius: 1rem;
-    transform: translate(0, 0.5rem);
+    /* transform: translate(0, 0.5rem); */
 }
 
 .profile__figure {
@@ -239,8 +239,6 @@ section {
 
     }
 
-
-
     .profile {
         grid-column: 1/2;
         grid-row: 1/3;
@@ -259,9 +257,6 @@ section {
         padding-bottom: 2.5rem;
         transform: none;
     }
-
-
-
 
 
     .profile__title {
